@@ -1,0 +1,32 @@
+# Node.js (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env.local
+frontend/.DS_Store
+
+# Python (backend)
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/.DS_Store
+
+# macOS system files
+.DS_Store
+
+# IDE configs (optional but recommended)
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS/Editor temp files
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
